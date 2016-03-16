@@ -1,0 +1,3 @@
+mairie_homepage:
+    path:     /
+    defaults: { _controller: MairieBundle:Default:index }
